@@ -1,0 +1,3 @@
+[submodule "src/plugins/OnstepX-Plugins"]
+	path = src/plugins/OnstepX-Plugins
+	url = https://github.com/hjd1964/OnStepX-Plugins.git
